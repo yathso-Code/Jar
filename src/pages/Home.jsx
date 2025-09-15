@@ -1,4 +1,4 @@
-
+import React from 'react'
 import Blog from "../components/Blog";
 import { FAQ } from "../components/FAQ";
 import { LiveRate } from "../components/LiveRate";
