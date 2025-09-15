@@ -1,4 +1,4 @@
-import Banner from "../components/banner";
+
 import Blog from "../components/Blog";
 import { FAQ } from "../components/FAQ";
 import { LiveRate } from "../components/LiveRate";
@@ -6,6 +6,8 @@ import { NavBar } from "../components/NavBar"
 import NavFooter from "../components/NavFooter"
 import WhyEarn from "../components/WhyEarn";
 import "./Home.css"; // import CSS file
+import Banner from "../components/Banner";
+
 
 
 const Home = () => {
